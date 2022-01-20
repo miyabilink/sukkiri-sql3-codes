@@ -1,0 +1,6 @@
+BEGIN;
+UPDATE 学生 SET 学部ID = 'K'
+ WHERE 学部ID = 'R';
+DELETE FROM 学部
+ WHERE ID = 'R';
+COMMIT;

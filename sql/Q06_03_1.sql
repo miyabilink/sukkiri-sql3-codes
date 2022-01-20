@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM 販売履歴

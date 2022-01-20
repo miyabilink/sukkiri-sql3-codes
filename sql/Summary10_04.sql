@@ -1,0 +1,1 @@
+DROP TABLE 家計簿

@@ -1,0 +1,5 @@
+/* SQL Server の場合 */
+CREATE TABLE 費目 (
+  ID INTEGER IDENTITY PRIMARY KEY,
+  名前 VARCHAR(40)
+)

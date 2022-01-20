@@ -1,0 +1,1 @@
+CREATE TABLE 家計簿 (  日付 DATE, メモ VARCHAR(100), 関連日付 DATE  ); INSERT INTO 家計簿 ( 日付,メモ,関連日付 ) VALUES ( '2018-04-02','湊に1000円貸した',NULL );INSERT INTO 家計簿 ( 日付,メモ,関連日付 ) VALUES ( '2018-05-01','湊から返してもらった','2018-04-02' );

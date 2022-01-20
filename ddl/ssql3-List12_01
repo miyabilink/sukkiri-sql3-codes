@@ -1,0 +1,1 @@
+CREATE TABLE 利用者 (  利用者ID INTEGER, 利用者名 VARCHAR(30)  ); 

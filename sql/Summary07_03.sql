@@ -1,0 +1,2 @@
+SELECT DISTINCT 費目 FROM 家計簿
+ WHERE 費目 NOT IN (SELECT 費目 FROM 家計簿アーカイブ)

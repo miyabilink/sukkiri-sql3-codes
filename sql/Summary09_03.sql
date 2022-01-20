@@ -1,0 +1,7 @@
+BEGIN;
+LOCK_TABLE 家計簿 IN EXCLUSIVE MODE;
+INSERT INTO 統計結果
+SELECT 'データ件数', COUNT(*) FROM 家計簿;
+INSERT INTO 統計結果
+SELECT '出金額平均', AVG(出金額) FROM 家計簿;
+COMMIT;

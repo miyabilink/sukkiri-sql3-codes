@@ -1,2 +1,0 @@
-SELECT * FROM 家計簿
- WHERE 日付 > CURRENT_DATE

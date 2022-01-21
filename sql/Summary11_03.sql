@@ -1,0 +1,1 @@
+CREATE SEQUENCE 費目IDシーケンス

@@ -9,7 +9,7 @@ SELECT * FROM 家計簿
     ON 家計簿.費目ID = 費目.ID;
 
 -- 費目IDに連番を振るためのシーケンスを準備したい（PostgreSQLを想定）
-CREATE SEQUENCE 費目IDシーケンス;
+CREATE SEQUENCE 費目シーケンス;
 
 -- シーケンスを使って、費目テーブルに「接待交際費」を追加したい（PostgreSQLを想定）
 INSERT INTO 費目 (ID, 名前)

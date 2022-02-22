@@ -1693,7 +1693,7 @@
         "label_header": "リスト11-12",
         "label": "PostgreSQLにおけるシーケンスの作成と取得",
         "sourceFiles": [
-          "List1112.sql"
+          "list1112.sql"
         ],
         "setupFile": "pre_list1112.sql",
         "isRuntimeError": false,

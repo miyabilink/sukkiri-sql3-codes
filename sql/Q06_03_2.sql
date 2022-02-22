@@ -1,1 +1,0 @@
-SELECT 商品名, COUNT(*) FROM 販売履歴

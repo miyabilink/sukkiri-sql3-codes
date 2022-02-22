@@ -1,1 +1,0 @@
-SELECT * FROM 成績表

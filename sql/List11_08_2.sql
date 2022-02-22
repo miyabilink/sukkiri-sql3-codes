@@ -1,1 +1,0 @@
-SELECT DISTINCT 費目ID FROM 家計簿4月;

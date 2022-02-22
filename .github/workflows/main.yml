@@ -14,7 +14,7 @@ jobs:
 
       - name: create a Zip file
         run: ls &&
-          zip -r release.zip sql ddl LICENSE.txt README.md README.txt &&
+          zip -r release.zip sql setup LICENSE.txt README.md README.txt &&
           unzip -t release.zip
       - name: Create release
         id: create_release

@@ -1,1 +1,0 @@
-SELECT 地域 AS area, 都道府県名 AS pref FROM 都道府県

@@ -1,1 +1,0 @@
-CREATE TABLE 入退室管理 (  日付 DATE, 退室 CHAR(1), 社員名 VARCHAR(20), 事由区分 CHAR(1)  ); INSERT INTO 入退室管理 ( 日付,退室,社員名,事由区分 ) VALUES ( '2018-02-01',1,'菅原',1 );INSERT INTO 入退室管理 ( 日付,退室,社員名,事由区分 ) VALUES ( '2018-02-02',1,'湊',2 );INSERT INTO 入退室管理 ( 日付,退室,社員名,事由区分 ) VALUES ( '2018-02-05',NULL,'朝香',3 );INSERT INTO 入退室管理 ( 日付,退室,社員名,事由区分 ) VALUES ( '2018-02-05',NULL,'菅原',3 );

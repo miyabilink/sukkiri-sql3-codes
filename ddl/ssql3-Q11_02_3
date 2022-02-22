@@ -1,1 +1,0 @@
-CREATE TABLE 学生 (  学籍番号 CHAR(8), 名前 VARCHAR(30), 生年月日 DATE, 血液型 CHAR(2), 学部ID CHAR(1), 登録順 INTEGER  ); CREATE SEQUENCE ISTD

@@ -1,0 +1,2 @@
+DELETE FROM 家計簿
+ WHERE 日付 = '2022-02-25'

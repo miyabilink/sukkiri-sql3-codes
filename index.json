@@ -1592,7 +1592,7 @@
       {
         "id": "ssql3-list1103",
         "label_header": "リスト11-3",
-        "label": "インデックス列をWHERE句に指定（前方一致）",
+        "label": "インデックス列をWHERE句に指定（前方一致検索）",
         "sourceFiles": [
           "list1103.sql"
         ],

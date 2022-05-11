@@ -456,7 +456,7 @@
         "label_header": "リスト4-2",
         "label": "DISTINCTあり",
         "sourceFiles": [
-          "list0202.sql"
+          "list0402.sql"
         ],
         "setupFile": "pre_list0402.sql",
         "isRuntimeError": false,

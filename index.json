@@ -1247,7 +1247,7 @@
         "label_header": "リスト8-8",
         "label": "3つのテーブルを結合するSQL文",
         "sourceFiles": [
-          "list08_08.sql"
+          "list0808.sql"
         ],
         "setupFile": "pre_list0808.sql",
         "isRuntimeError": false,

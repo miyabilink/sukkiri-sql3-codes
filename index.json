@@ -1450,7 +1450,7 @@
         "label_header": "リスト10-5",
         "label": "基本的な3つの制約を指定",
         "sourceFiles": [
-          "list10_05.sql"
+          "list1005.sql"
         ],
         "setupFile": "pre_list1005.sql",
         "isRuntimeError": false,

@@ -807,7 +807,7 @@
       },
       {
         "id": "ssql3-quizans0501",
-        "label_header": "問題5-1の解答",
+        "label": "問題5-1の解答",
         "sourceFiles": [
           "quizans0501.sql"
         ],
@@ -817,7 +817,7 @@
       },
       {
         "id": "ssql3-quizans0502",
-        "label_header": "問題5-2の解答",
+        "label": "問題5-2の解答",
         "sourceFiles": [
           "quizans0502.sql"
         ],
@@ -827,7 +827,7 @@
       },
       {
         "id": "ssql3-quizans0503",
-        "label_header": "問題5-3の解答",
+        "label": "問題5-3の解答",
         "sourceFiles": [
           "quizans0503.sql"
         ],
@@ -963,7 +963,7 @@
       },
       {
         "id": "ssql3-quizQ0603",
-        "label_header": "問題6-3",
+        "label": "問題6-3",
         "sourceFiles": [
           "quiz0603.sql"
         ],
@@ -973,7 +973,7 @@
       },
       {
         "id": "ssql3-quizans0601",
-        "label_header": "問題6-1の解答",
+        "label": "問題6-1の解答",
         "sourceFiles": [
           "quizans0601.sql"
         ],
@@ -983,7 +983,7 @@
       },
       {
         "id": "ssql3-quizans0602",
-        "label_header": "問題6-2の解答",
+        "label": "問題6-2の解答",
         "sourceFiles": [
           "quizans0602.sql"
         ],
@@ -1141,7 +1141,7 @@
       },
       {
         "id": "ssql3-quiz0702",
-        "label_header": "問題7-2",
+        "label": "問題7-2",
         "sourceFiles": [
           "quiz0702.sql"
         ],
@@ -1287,7 +1287,7 @@
       },
       {
         "id": "ssql3-quizQ0801",
-        "label_header": "問題8-1",
+        "label": "問題8-1",
         "sourceFiles": [
           "quiz0801.sql"
         ],
@@ -1297,7 +1297,7 @@
       },
       {
         "id": "ssql3-quizans0802",
-        "label_header": "問題8-2の解答",
+        "label": "問題8-2の解答",
         "sourceFiles": [
           "quizans0802.sql"
         ],

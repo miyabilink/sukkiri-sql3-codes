@@ -74,7 +74,7 @@
         "label_header": "リスト1-7",
         "label": "3月の家賃（日付が「2022年2月25日」）の行を削除",
         "sourceFiles": [
-          "list0106.sql"
+          "list0107.sql"
         ],
         "setupFile": "pre_list0107.sql",
         "isRuntimeError": false,
